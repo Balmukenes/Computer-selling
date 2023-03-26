@@ -1,0 +1,16 @@
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\bin\Debug\Computer_Selling.exe.config
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\bin\Debug\Computer_Selling.exe
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\bin\Debug\Computer_Selling.pdb
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\obj\Debug\Computer_Selling.csproj.AssemblyReference.cache
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\obj\Debug\Computer_Selling.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\obj\Debug\Computer_Selling.Form1.resources
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\obj\Debug\Computer_Selling.Properties.Resources.resources
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\obj\Debug\Computer_Selling.csproj.GenerateResource.cache
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\obj\Debug\Computer_Selling.csproj.CoreCompileInputs.cache
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\obj\Debug\Computer_Selling.exe
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\obj\Debug\Computer_Selling.pdb
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\obj\Debug\Computer_Selling.Form2.resources
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\obj\Debug\Computer_Selling.Form3.resources
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\obj\Debug\Computer_Selling.Form4.resources
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\obj\Debug\Computer_Selling.Form5.resources
+C:\Users\enesp\source\repos\Computer_Selling\Computer_Selling\obj\Debug\Computer_Selling.Form6.resources
